@@ -2,6 +2,10 @@
 
 <h2>Modules:</h2>
 
-* HTTP
-* File System
+* <a src="https://github.com/GabriellMDias/NodeJS/tree/main/HTTPModule">HTTP</a>
+* <a src="https://github.com/GabriellMDias/NodeJS/tree/main/FileSystem">File System</a>
+* <a src="https://github.com/GabriellMDias/NodeJS/tree/main/URLModule">URL</a>
+* ...
 
+<br><br>
+Based on Node.js tutorial by <a src="https://www.w3schools.com/nodejs">w3schools</a>
